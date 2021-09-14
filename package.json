@@ -11,7 +11,7 @@
     "@types/leaflet": "^1.5.8",
     "core-js": "^3.4.4",
     "leaflet": "^1.6.0",
-    "matrix-js-sdk": "2.0.0",
+    "matrix-js-sdk": "12.4.1",
     "osrm.js": "^5.5.0",
     "vue": "^2.6.10",
     "vue-class-component": "^7.0.2",
